@@ -1,7 +1,7 @@
 /*
  * COP3502 Assignment 1
  * This program is written by: Xavier A. Soto Baron
- * 9/8/2024
+ * 09/08/2024
 
  Description:
    This program implements a dynamic parking monitoring system for Monster University.
